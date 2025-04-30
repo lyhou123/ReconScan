@@ -79,7 +79,7 @@ def main():
         print("Invalide host Name !!") 
         return None
 
-if __name__=="__Main__":
+if __name__=="__main__":
     main();
     
            
